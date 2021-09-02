@@ -1,3 +1,8 @@
+<script src="baffle.min.js">
+  window.baffle
+
+
+</script>
 ## [Plasma Client](https://github.com/sigmaclientwastaken/PlasmaClient)'s release date is currently unknown!
 
 ### The Dev Team:
