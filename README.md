@@ -4,4 +4,4 @@
 
 ### The Dev Team:
   
-  @sigmaclientwastaken - Main Dev
+  sigmaclientwastaken - Main Dev
